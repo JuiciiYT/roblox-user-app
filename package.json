@@ -41,7 +41,7 @@
     "prepend-file": "^2.0.0",
     "process": "^0.11.10",
     "request": "^2.88.2",
-    "roblox-user-information": "^1.0.0",
+    "@types/roblox-user-information": "^1.0.0",
     "shelljs": "^0.8.4",
     "system-commands": "^1.1.7"
   },
